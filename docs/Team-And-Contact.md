@@ -1,6 +1,6 @@
-# TEAM / CREDITS
+# TEAM
 
-We need a proper designated team.
+We need a proper designated team. [Join us!](https://github.com/open-music-games/singing-game/milestone/1)
 
 |  | Vocaluxe Remake |
 | :---- | ----- |
