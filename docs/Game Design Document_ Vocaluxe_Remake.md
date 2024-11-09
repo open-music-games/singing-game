@@ -95,12 +95,13 @@ Selfmade Vocaluxe (Remake) Engine
 Recommended are
 * Runtime environment: NodeJS
 * Framework: Electron
-* Front-end framework: ReactJS + SASS
+* Front-end framework: Angular, ReactJS, SASS
 * Task runner: Gulp
 * Package manager: npm
 
 ### Integrated Developement Environment (IDE):
 Recommended are
+
 MS Visual Studio Code, Webstorm, MS Visual Studio Community 2022
 
 ## GAME PLAY
