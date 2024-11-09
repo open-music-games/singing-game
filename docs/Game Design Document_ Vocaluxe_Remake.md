@@ -1,18 +1,16 @@
-#
-
 # VOCALUXE (Remake)
 
 ## Concept and Game Design Document
 
-Version: 1.0.1 (100% complete)
+Version: **1.0.1**
 
-Written by: Marwin (Lead / Open Music Games.org)
+Written by: **Marwin (Lead / Open Music Games.org)**
 
-Last update: 6\. Nov. 2024
+Last update: **9\. Nov. 2024**
 
-Location: Berlin
+Location: **Berlin**
 
-Status:  In Progress > Done
+Status:  **Done (100% complete)**
 
 # CONCEPT
 
@@ -119,7 +117,7 @@ To start: Plug in up to four wireless USB-Microphones into your pc and connect y
 
 ### Key Features
 
-Which game elements are the most attractive to the player?
+*Which game elements are the most attractive to the player?*
 
 1. **Custom Songs:**
 the game use the community-grown UltraStar format. players can find many underground songs that are not hyped or charted. they can build a very individual song collection
@@ -314,21 +312,26 @@ The better the player sings, the better the feedback of the game.
 
 *This is where you’ll include a description of the user’s control of the game. Think about which buttons on a device would be best suited for the game. A visual representation can be added where you relate the physical controls to the actions in the game.*
 
-The whole games consist of UI, HUD, Visual effects, Transition effects, and music videos. There’s no world and no player avatar moving. The player navigates through a big menu with several layers, screens and sub screens.
-Vocaluxe focuses on the Keyboard / Gamepad.
+* The whole games consist of UI, HUD, Visual effects, Transition effects, * and music videos.
+* There’s no world and no player avatar moving.
+* The player navigates through a big menu with several layers, screens and sub screens.
+* Vocaluxe focuses on the Keyboard / Gamepad.
 
 ## STYLE GUIDELINES
 
 How should the game look & Sound? Even if players can customize the look of the game it needs good original design in the first place. We set these guidelines to make the game stand out:
 
 Theme:
-Pop colorful, contemporary music tv
+**Pop colorful, contemporary music tv**
+
 Backgrounds:
-Flat, abstract, geometric, animated
+**Flat, abstract, geometric, animated**
+
 Background Music:
-calm, motivating, pop
+**calm, motivating, pop**
+
 Avatars:
-Realistic with an animelike western style (3:2)
+**Realistic with an animelike western style (3:2)**
 
 # TEAM / CREDITS
 
