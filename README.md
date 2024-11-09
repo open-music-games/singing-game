@@ -1,2 +1,2 @@
-# godot-singing-game
-Experimental repository for building up a singstar-like clone for pc with godot engine.
+# singing-game
+Experimental repository for building up a singstar-like clone web-app and desktop-app.
