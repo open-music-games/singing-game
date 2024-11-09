@@ -1,4 +1,4 @@
-# VOCALUXE (Remake)
+<img alt="Vocaluxe Remake Logo" src="https://github.com/open-music-games/singing-game/blob/main/docs/Vocaluxe-Logo-Main.png" width=500/>
 
 ## Concept and Game Design Document
 
@@ -321,17 +321,12 @@ The better the player sings, the better the feedback of the game.
 
 How should the game look & Sound? Even if players can customize the look of the game it needs good original design in the first place. We set these guidelines to make the game stand out:
 
-Theme:
-**Pop colorful, contemporary music tv**
+<img alt="style-example-01" src="https://github.com/open-music-games/singing-game/blob/main/docs/style-example-01.png" width=500/>
 
-Backgrounds:
-**Flat, abstract, geometric, animated**
-
-Background Music:
-**calm, motivating, pop**
-
-Avatars:
-**Realistic with an animelike western style (3:2)**
+* Theme: **Pop colorful, contemporary music tv**
+* Backgrounds: **Flat, abstract, geometric, animated**
+* Background Music: **calm, motivating, pop**
+* Avatars: **Realistic with an animelike western style (3:2)**
 
 # TEAM / CREDITS
 
@@ -343,17 +338,17 @@ We need a proper designated team.
 | Project Leader / Owner | [Marwin](https://github.com/marwin89) (2023-today) |
 | Project and Team Manager | [Marwin](https://github.com/marwin89) (2023-today) |
 | Maintainer | Florian (2013-today) |
-| Gameplay Design |  |
+| Gameplay Design | ---- |
 | Design Director  | Florian Marwin |
 | Original Concept / Idea  |  |
 | Game Play Design |  |
 | Party Mode Design | Alexander Eckhart (2011-2015) Florian (2013-today) |
-| Programming / Engineering |  |
+| Programming / Engineering | ---- |
 | Technical Director |  |
 | Software Engineer |  |
 | Programmer |  |
 | QA Programmer |  |
-| Art / Graphics |  |
+| Art / Graphics | ---- |
 | Art Director |  |
 | Graphics Artist | [Marwin](https://github.com/marwin89) (2023-today) |
 | UI / HUD Designer |  |
@@ -362,15 +357,15 @@ We need a proper designated team.
 | Illustrator |  |
 | Sound / Music Designer | [Marwin](https://github.com/marwin89) (2023-today) |
 | Audio Producer | Ivymusic |
-| QA Team |  |
+| QA Team | ---- |
 | QA Manager |  |
 | Tester |  |
 | Localization Testing |  |
-| Technology |  |
+| Technology | ---- |
 | Website Developer |  |
 | Webmaster |  |
 | Tools |  |
-| Localization |  |
+| Localization | ---- |
 | Localization |  |
 | Localization Supervisor |  |
 | Translator: Chzech |  |
