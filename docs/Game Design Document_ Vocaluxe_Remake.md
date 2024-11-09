@@ -4,15 +4,14 @@
 
 ## Concept and Game Design Document
 
-Version: 1.0.1
-(100% complete)
+Version: 1.0.1 (100% complete)
 
-Written by:
-
-Marwin (Lead / Open Music Games.org)
+Written by: Marwin (Lead / Open Music Games.org)
 
 Last update: 6\. Nov. 2024
+
 Location: Berlin
+
 Status:  In Progress > Done
 
 # CONCEPT
@@ -29,7 +28,7 @@ music game, rhythm game, karaoke, sing-along
 
 ### Game Elements:
 
-What basic activities will the player be doing for fun?
+*What basic activities will the player be doing for fun?*
 
 * Sing alone and collect scores
 * Sing with friends together or against each other
@@ -38,7 +37,7 @@ What basic activities will the player be doing for fun?
 
 ### Player:
 
-The number of players that can play the game at once
+*The number of players that can play the game at once*
 
 * 1-4 Players
 
@@ -66,13 +65,13 @@ Open Music Games Organization (Germany)
 
 ### Technical Form:
 
-Basically there are 2D graphics (flat) and 3D graphics (form):
+*Basically there are 2D graphics (flat) and 3D graphics (form):*
 
 * 2D graphics (flat)
 
 ### View:
 
-Camera view from which the player will experience the game:
+*Camera view from which the player will experience the game:*
 
 * 3rd Person
 * Front, only Screens
@@ -112,41 +111,53 @@ MS Visual Studio Code, Webstorm, MS Visual Studio Community 2022
 
 Vocaluxe (Remake) is a singing game with boundless possibilities. Players sing along their favorite songs and try to hit notes for points. Feel like a superstar while you break the highscore\! Invite your family and friends to rock the virtual stage together\!
 
-Unlike Singstar or Let’s sing you can use custom songs from your own music collection on pc.There are already a zillion song txt files out there, and in case your favorite song is not yet available, why don't you start creating it yourself and share it with the community?
+Unlike Singstar or Let’s sing you can use custom songs from your own music collection on pc. There are already a zillion song txt files out there, and in case your favorite song is not yet available, why don't you start creating it yourself and share it with the community?
+
 But customization doesn't stop with your personal song collection. Both games allow extensive theming and skinning or player profiles and avatars. As you can see, the sky is the limit. Make it your game\!
+
 To start: Plug in up to four wireless USB-Microphones into your pc and connect your pc with your tv and your ready for a legendary singing party. For controlling you can use a gamepad or mouse.
 
 ### Key Features
 
 Which game elements are the most attractive to the player?
 
-1. **Custom Songs:** the game use the community-grown UltraStar format. players can find many underground songs that are not hyped or charted. they can build a very individual song collection
+1. **Custom Songs:**
+the game use the community-grown UltraStar format. players can find many underground songs that are not hyped or charted. they can build a very individual song collection
 
-2. **Scoring:** the game analyzes pitch and rhythm of the voice in real time and gives immediate visual feedback to players how good they sing.
+2. **Scoring:**
+the game analyzes pitch and rhythm of the voice in real time and gives immediate visual feedback to players how good they sing.
 
-3. **High Score and statistics:** the game collects all scores for each song over time and renders a statistics screen.
+3. **High Score and statistics:**
+the game collects all scores for each song over time and renders a statistics screen.
 
-4. **Solos, Duets, Groups:** Sing a duet where each player has different lyrics and notes. Or throw a party and sing with many players at the same time.
+4. **Solos, Duets, Groups:**
+Sing a duet where each player has different lyrics and notes. Or throw a party and sing with many players at the same time.
 
-5. **Music video Background:** while singing and looking at the score players can enjoy the music video as background.
+5. **Music video Background:**
+while singing and looking at the score players can enjoy the music video as background.
 
-6. **Party modes**: Play multiple rounds or start a knock-out tournament.
+6. **Party modes**:
+Play multiple rounds or start a knock-out tournament.
 
-7. **Song Queue:** Play multiple songs from the queue without interruption.
+7. **Song Queue:**
+Play multiple songs from the queue without interruption.
 
-8. **Medleys:** Play a shortened mix of songs in the queue.
+8. **Medleys:**
+Play a shortened mix of songs in the queue.
 
-9. **Individual profile for player:** a player can define a profile and choose an avatar.
+9. **Individual profile for player:**
+a player can define a profile and choose an avatar.
 
-10. **Jukebox**: player can use the game as a media player that plays random songs without scoring. This helps to always have background music for the party.
+10. **Jukebox**:
+player can use the game as a media player that plays random songs without scoring. This helps to always have background music for the party.
 
 # DESIGN
 
-This document describes how GameObjects behave, how they’re controlled and their properties. This is often referred to as the “mechanics” of the game. This documentation is primarily concerned with the game itself. This part of the document is meant to be modular, meaning you could have several different Game Design Documents attached to the Concept Document.
+*This document describes how GameObjects behave, how they’re controlled and their properties. This is often referred to as the “mechanics” of the game. This documentation is primarily concerned with the game itself. This part of the document is meant to be modular, meaning you could have several different Game Design Documents attached to the Concept Document.*
 
 ## DESIGN GUIDELINES
 
-This is an important statement about any creative restrictions that need to be considered and includes brief statements about the general (i.e., overall) goal of the design.
+*This is an important statement about any creative restrictions that need to be considered and includes brief statements about the general (i.e., overall) goal of the design.*
 
 1. Vocaluxe must provide a similar experience like singstar celebration (2017).
 
@@ -164,7 +175,7 @@ This is an important statement about any creative restrictions that need to be c
 
 ## GAME DESIGN DEFINITIONS
 
-This section established the definition of the game play. Definitions should include how a player wins, loses, transitions between modes, and the main focus of the gameplay.
+*This section established the definition of the game play. Definitions should include how a player wins, loses, transitions between modes, and the main focus of the gameplay.*
 
 Vocaluxe has these following features:
 
@@ -218,7 +229,7 @@ These features totally change the game experience for the players and make the V
 
 ## GAME FLOWCHART
 
-The game flow chart provides a visual of how the different game elements and their properties interact. Game flowcharts should represent Objects, Properties, and Actions present in the game.
+*The game flow chart provides a visual of how the different game elements and their properties interact. Game flowcharts should represent Objects, Properties, and Actions present in the game.*
 
 ### Objects
 
@@ -253,7 +264,7 @@ The game flow chart provides a visual of how the different game elements and the
 
 ### Player Definitions
 
-A suggested list may include: Health, Weapons, Actions
+*A suggested list may include: Health, Weapons, Actions*
 
 * A player is a singer.
 
@@ -263,7 +274,7 @@ A suggested list may include: Health, Weapons, Actions
 
 ### Player Properties
 
-Each property should mention feedback as a result of the property changing.
+*Each property should mention feedback as a result of the property changing.*
 
 * High Score \- get High score when singing a song
 
@@ -287,7 +298,7 @@ Each property should mention feedback as a result of the property changing.
 
 ### Player Rewards
 
-Make a list of all objects that affect the player in a positive way (e.g., health replenished)
+*Make a list of all objects that affect the player in a positive way (e.g., health replenished)*
 
 The better the player sings, the better the feedback of the game.
 
@@ -301,9 +312,9 @@ The better the player sings, the better the feedback of the game.
 
 ## USER INTERFACE (UI)
 
-This is where you’ll include a description of the user’s control of the game. Think about which buttons on a device would be best suited for the game. A visual representation can be added where you relate the physical controls to the actions in the game.
-The whole games consist of UI, HUD, Visual effects, Transition effects, and music videos. There’s no world and no player avatar moving. The player navigates through a big menu with several layers, screens and sub screens.
+*This is where you’ll include a description of the user’s control of the game. Think about which buttons on a device would be best suited for the game. A visual representation can be added where you relate the physical controls to the actions in the game.*
 
+The whole games consist of UI, HUD, Visual effects, Transition effects, and music videos. There’s no world and no player avatar moving. The player navigates through a big menu with several layers, screens and sub screens.
 Vocaluxe focuses on the Keyboard / Gamepad.
 
 ## STYLE GUIDELINES
@@ -378,8 +389,8 @@ Following Project Owner approved this Game Design Document:
 
 | Approval | Status | Date |
 | :---- | :---- | :---- |
-| Marwin(Open Music Games Lead) | Genehmigt |  |
-| Florian(Vocaluxe Maintainer) | Nicht gestartet |  |
+| Marwin (Open Music Games Lead) | Genehmigt |  |
+| Florian (Vocaluxe Maintainer) | Nicht gestartet |  |
 
 # CONTACT
 
