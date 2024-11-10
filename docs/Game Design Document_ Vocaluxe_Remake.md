@@ -184,7 +184,7 @@ Vocaluxe has these following features:
 | **Highscore** | For each song, for each difficulty, for each player |
 | **Statistics** | most played songs, songs never played |
 | **In Built Store** | No |
-| **Files Stored** | Locally |
+| **Files Stored** | Locally, optional: Youtube Stream Embed |
 | **Translations (UI)**  | Czech, Dutch, English, French, German, Hungarian, Italian, Portuguese, Spanish, Swedish, Turkish, Chinese, Japanese |
 | **Difficulty levels** | easy, medium, difficult |
 | **Theme support** | yes, each game provides customization of look and feel. description below. |
