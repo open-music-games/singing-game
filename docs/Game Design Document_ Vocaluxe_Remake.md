@@ -322,12 +322,12 @@ The better the player sings, the better the feedback of the game.
 
 How should the game look & Sound? Even if players can customize the look of the game it needs good original design in the first place. We set these guidelines to make the game stand out:
 
-<img alt="style-example-01" src="https://github.com/open-music-games/singing-game/blob/main/docs/style-example-01.png" width=500/>
-
 * Theme: **Pop colorful, contemporary music tv**
 * Backgrounds: **Flat, abstract, geometric, animated**
 * Background Music: **calm, motivating, pop**
 * Avatars: **Realistic with an animelike western style (3:2)**
+
+<img alt="style-example-01" src="https://github.com/open-music-games/singing-game/blob/main/docs/style-example-01.png" width=400/> <img alt="style-example-02" src="https://github.com/user-attachments/assets/d5eb1558-2ded-4466-9470-28215da56828" width=400/> <img alt="style-example-03" src="https://github.com/user-attachments/assets/0c03ba0a-9bb3-4514-9d1e-80a76143c997" width=400/> <img alt="style-example-04" src="https://github.com/user-attachments/assets/83aa5c5d-b22f-4b92-8a33-93565bf2ea84" width=400/>
 
 # APPROVALS
 
