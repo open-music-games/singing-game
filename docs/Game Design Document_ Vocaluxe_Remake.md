@@ -195,9 +195,9 @@ Vocaluxe has these following features:
 | **Golden notes support (\*)** | yes |
 | **Jukebox mode** | yes, play Songs without scoring, lyrics, and player profiles |
 | **Player Profiles** | yes, Player has at least own avatar image, name and individual high score |
-| **Song Menu Style** | Grid, each game has different styles of Grid view, but all are grids. |
+| **Song Menu Style** | Grid View aka "Tile View" |
 | **Song Menu Search and Filter** | yes, filter by: year, genre, artist, favorites |
-| **Gamepad supported** | yes, xbox controller, Wii-Mote are supported |
+| **Gamepad supported** | yes, xbox controller and similar controllers are supported |
 | **Smartphone supported** | yes, webbroswer app, AndroidApp, iOS App |
 | **Automatic Updates** | yes |
 | **Built-In Manual** | yes |
