@@ -1,5 +1,5 @@
 # Singing game web-app
-Experimental repository for building up a singstar-2017-celebration-like clone web-app and desktop-app. Using "Vocaluxe"-Brand. Working Title "Vocaluxe Remake".
+Experimental repository for building up a singstar-2017-celebration-like clone web-app and desktop-app. Using "Vocaluxe 2024"-Design.
 
 Last update: 9th November 2024
 
